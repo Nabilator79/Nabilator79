@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nabil 👋
 
-<!--
-**Nabilator79/Nabilator79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with over 10 years of experience in automotive test systems and automation.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- C / C++
+- C#
+- Automation Systems
+- EtherCAT
+- Restbus Simulation
+- Test & Diagnostic Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Experience
+- Development of automation software
+- Test bench configuration
+- Customer-specific engineering solutions
+- System validation & troubleshooting
+
+## 📫 Contact
+Email: [Nabil702@hotmail.de]
